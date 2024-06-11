@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp /tmp/hello school
+sudo chgrp school hello
