@@ -1,2 +1,2 @@
 #!/bin/bash
-uniq -Du
+cat 0x02$ | sort --ignore-case | uniq -u
